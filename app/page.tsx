@@ -265,6 +265,13 @@ export default function Home() {
             <span>▤</span> Documentation
             <span className="ml-auto text-[9px] uppercase text-[#c4f56a]">Open</span>
           </a>
+          <a
+            href="/leo-playground"
+            className="flex items-center gap-3 rounded-xl px-3 py-3 text-sm text-[#a0aaa2] transition hover:bg-white/[0.04] hover:text-[#c4f56a]"
+          >
+            <span>⌘</span> Leo Playground
+            <span className="ml-auto text-[9px] uppercase text-[#c4f56a]">Open</span>
+          </a>
 
           <div className="mt-auto rounded-xl border border-white/[0.08] bg-white/[0.02] p-4">
             <div className="mb-2 flex items-center gap-2 text-xs font-medium text-[#c4f56a]">
